@@ -18,6 +18,11 @@ U mzdy i u pohledávek je hlavním nástrojem **pořadí podle dne doručení** 
 
 **Povaha předpisu.** Zákon upravuje jen otázky souběhu, tj. pořadí, rozvrh, přerušení a příslušnost. Ostatní pravidla zůstávají v předpisech, podle nichž byla exekuce nařízena (§ 20). Na řízení podle tohoto zákona se přiměřeně použije občanský soudní řád (§ 21).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 331/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/88406D94E9FB98A6C1257A4E00679551?openDocument) — 21. 7. 2004, kat. A
+  > „Předmětem úpravy obsažené v zákoně č. 119/2001 Sb. není postup soudů v případech souběhu výkonu rozhodnutí (podle občanského soudního řádu), nařízeného i prováděného soudem, s exekucí (podle exekučního řádu), nařízenou soudem a prováděnou soudním exekutorem"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Na mzdu zaměstnance P. dopadá exekuční příkaz soudního exekutora a exekuční příkaz finančního úřadu. Zároveň okresní soud nařídil výkon rozhodnutí prodejem jeho automobilu.
@@ -76,6 +81,11 @@ Zákon je třeba použít vždy, když různé orgány souběžně postihnou ten
 - u správce daně a správního orgánu o vydání exekučního příkazu.
 
 Pro pořadí u mzdy a účtů (§ 3 odst. 2, § 8 odst. 2) však zákon stanoví samostatné kritérium. Rozhoduje **doručení** konkrétního rozhodnutí, resp. exekučního příkazu, plátci mzdy nebo peněžnímu ústavu, nikoli vydání. Definice v písm. e) má proto význam hlavně tam, kde zákon výslovně pracuje s okamžikem „nařízení“.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 331/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/88406D94E9FB98A6C1257A4E00679551?openDocument) — 21. 7. 2004, kat. A
+  > „Předmětem úpravy obsažené v zákoně č. 119/2001 Sb. není postup soudů v případech souběhu výkonu rozhodnutí (podle občanského soudního řádu), nařízeného i prováděného soudem, s exekucí (podle exekučního řádu), nařízenou soudem a prováděnou soudním exekutorem"
 
 #### F. Kazuistika
 
