@@ -260,15 +260,15 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje složku `judikatura/` ani žádnou místní kartu rozhodnutí (**0 karet**); soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly obsahují **0 spisových značek**. Složka judikatury se doplní strojově později; do té doby jde o výslovnou mezeru.
-Komentář tuto mezeru sám deklaruje:
-- [00-uvod.md](00-uvod.md): „Komentář neuvádí žádné spisové značky soudních rozhodnutí; tam, kde zákon otázku výslovně neřeší, je to v kapitolách poctivě označeno jako výkladová otázka spolu s argumenty, které pro jednotlivé varianty svědčí.“
+Složka `judikatura/` obsahuje **1 místní kartu**: [NS 20 Cdo 331/2004](judikatura/NS-20-Cdo-331-2004.md) z 21. 7. 2004, vloženou u § 1 a § 2 v [01-mzda-pohledavky.md](01-mzda-pohledavky.md). Podle její právní věty předmětem zákona nebyl postup soudů při souběhu soudního výkonu rozhodnutí s exekucí prováděnou soudním exekutorem. Komentář u § 1 kartu vyhodnocuje jako překonanou: „Závěr karty proto na platné znění nelze použít; má jen historickou výpovědní hodnotu pro souběhy, které nastaly před touto změnou.“ Důvodem je novela č. 286/2009 Sb. (čl. IV), která přepsala § 2 písm. a), a platné znění § 1, které soudní exekutory výslovně zahrnuje. Karta je tak příkladem judikátu, jehož použitelnost překonala změna rozhodného znění. K ostatním ustanovením místní judikatura není.
+Komentář to sám deklaruje:
+- [00-uvod.md](00-uvod.md): „K ostatním ustanovením místní judikatura není; tam, kde zákon otázku výslovně neřeší, je to v kapitolách poctivě označeno jako výkladová otázka spolu s argumenty, které pro jednotlivé varianty svědčí.“
 - [00-uvod.md](00-uvod.md): „Kazuistiky jsou modelové a slouží k ilustraci aplikace ustanovení, nikoli jako záznam skutečných rozhodnutí.“
 
-Místní korpus neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se proto nesmí domýšlet. Všechny závěry tohoto komentáře mají povahu **textu** nebo **syntézy**, nikoli judikatury.
+Pro platné znění místní korpus neposkytuje použitelnou judikatorní tezi; judikatorní závěr se proto nesmí domýšlet. Závěry tohoto komentáře k platnému znění mají povahu **textu** nebo **syntézy**, nikoli judikatury; karta NS 20 Cdo 331/2004 slouží jen jako historický údaj o výkladu původního znění.
 
 **Hloubkový test.**
-- Po doplnění složky judikatury u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
+- U každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
 - Ověřte, zda soud vykládal stejné znění (zejména u novelizovaných § 6a, § 15a, § 15b, § 16a a odkazů na o. s. ř.) a stejný model souběhu.
 - Prioritně hledejte místní oporu pro výkladové otázky uvedené ve vrstvě 10; nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech.
 - Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability.
@@ -316,7 +316,7 @@ Reprezentativní místní formulace:
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu.
-- U každé varianty uveďte textový, systematický, historický, účelový a (po doplnění) judikatorní argument.
+- U každé varianty uveďte textový, systematický, historický, účelový a (je-li k dispozici) judikatorní argument.
 - Porovnejte praktické následky variant — zejména u lhůt (§ 15a, § 16a odst. 5), kde bezpečnější postup může být odlišný od teoreticky správného.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
@@ -375,7 +375,7 @@ Aplikační vrstvu lze ověřit zejména v:
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **úvodem a 2 normativními kapitolami**. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- složka `judikatura/` dosud neexistuje a soubor zásad neodkazuje na žádnou místní kartu s citovatelnou tezí (doplní se strojově);
+- složka `judikatura/` obsahuje jedinou kartu ([NS 20 Cdo 331/2004](judikatura/NS-20-Cdo-331-2004.md), § 1 a § 2), kterou překonala novela č. 286/2009 Sb. a která má jen historickou hodnotu; k ostatním ustanovením místní judikatura není;
 - repozitář neobsahuje místní důvodovou zprávu ani přechodná ustanovení pozdějších novel;
 - data účinnosti novel (§ 6a, § 15a, § 15b, § 16a) nejsou v lokální konsolidaci uvedena;
 - komentář vychází z jediné konsolidace k 1. 10. 2024 a z odkazovaných ustanovení o. s. ř. v tehdejším znění;
@@ -396,13 +396,13 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Komentář k zákonu č. 119/2001 Sb. — úvod](00-uvod.md) | ano | nenalezeno | ano | jen deklarovaná absence | ano | ano | nenalezeno | ano |
-| [Kapitola 1 — Předmět, pojmy a souběh exekucí postihujících mzdu a peněžní pohledávky (§ 1–10)](01-mzda-pohledavky.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Komentář k zákonu č. 119/2001 Sb. — úvod](00-uvod.md) | ano | nenalezeno | ano | odkaz na 1 překonanou kartu | ano | ano | nenalezeno | ano |
+| [Kapitola 1 — Předmět, pojmy a souběh exekucí postihujících mzdu a peněžní pohledávky (§ 1–10)](01-mzda-pohledavky.md) | ano | ano | ano | 1 karta (§ 1, § 2), jen historická | ano | ano | ano | ano |
 | [Kapitola 2 — Souběh exekucí na movité věci, nemovitosti a podnik a ustanovení společná (§ 11–23)](02-veci-nemovitosti-podnik-spolecna.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál nebyl nalezen v žádné z normativních kapitol; úvod absenci výslovně deklaruje. Po strojovém doplnění složky `judikatura/` ověřit výkladové otázky z vrstvy 10.
+- **Judikatura:** kapitola 1 obsahuje u § 1 a § 2 jedinou místní kartu ([NS 20 Cdo 331/2004](judikatura/NS-20-Cdo-331-2004.md)), překonanou novelou č. 286/2009 Sb. a s jen historickou hodnotou; kapitola 2 místní judikaturu neobsahuje. Výkladové otázky z vrstvy 10 proto nemají místní judikatorní oporu.
 - **Důkazy:** textový signál nebyl nalezen v 1 ze 3 souborů: [úvod](00-uvod.md).
 - **Aplikace:** úvod neobsahuje modelovou situaci; aplikační vrstvu nesou kapitoly 1 a 2.
 - **Čas:** ověřit data účinnosti novel a přechodná ustanovení u § 6a, § 15a, § 15b a § 16a.

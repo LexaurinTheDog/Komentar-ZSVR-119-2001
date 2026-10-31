@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu (konsolidace k 1. 10. 2024) a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Místní důvodová zpráva ani místní karty rozhodnutí v repozitáři zatím nejsou; složka `judikatura/` se doplní strojově později. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu (konsolidace k 1. 10. 2024) a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Místní důvodová zpráva v repozitáři není; složka `judikatura/` obsahuje jedinou kartu, [NS 20 Cdo 331/2004](judikatura/NS-20-Cdo-331-2004.md) k § 1 a § 2, kterou překonala novela č. 286/2009 Sb. a která má jen historickou hodnotu. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -128,10 +128,10 @@ Typický střet: časová priorita versus rovnost věřitelů. U nemovitostí je
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Místní složka judikatury dosud neexistuje: repozitář obsahuje **0** karet rozhodnutí a v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací. Úvod to výslovně uvádí: „Komentář neuvádí žádné spisové značky soudních rozhodnutí; tam, kde zákon otázku výslovně neřeší, je to v kapitolách poctivě označeno jako výkladová otázka spolu s argumenty, které pro jednotlivé varianty svědčí.“
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Složka `judikatura/` se doplní strojově později — do té doby jde o evidovanou mezeru.
+Repozitář obsahuje **1** místní kartu rozhodnutí: [NS 20 Cdo 331/2004](judikatura/NS-20-Cdo-331-2004.md) z 21. 7. 2004, vloženou u § 1 a § 2 v [01-mzda-pohledavky.md](01-mzda-pohledavky.md). Její právní věta vylučuje z předmětu zákona souběh soudního výkonu rozhodnutí s exekucí prováděnou soudním exekutorem. Rozhodnutí však vychází z původního znění; novela č. 286/2009 Sb. (čl. IV) přepsala § 2 písm. a) a platné znění § 1 soudní exekutory výslovně zahrnuje. Komentář proto u § 1 uzavírá: „Závěr karty proto na platné znění nelze použít; má jen historickou výpovědní hodnotu pro souběhy, které nastaly před touto změnou.“ Karta je tak názorným příkladem hranice použitelnosti judikatury: judikát, jehož závěr překonala změna vykládaného znění.
+K ostatním ustanovením místní judikatura není; úvod uvádí: „K ostatním ustanovením místní judikatura není; tam, kde zákon otázku výslovně neřeší, je to v kapitolách poctivě označeno jako výkladová otázka spolu s argumenty, které pro jednotlivé varianty svědčí.“ Pro platné znění tedy místní korpus neposkytuje použitelnou judikatorní tezi; judikatorní odpověď se nesmí domýšlet.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (pozor na novelizované § 6a, § 15a, § 15b a § 16a a na měnící se ustanovení o. s. ř.) a stejný model souběhu. Prioritně hledejte oporu k výkladovým otázkám z otázky 11. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo.
+**Jak ji řešit.** U každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění (pozor na novelizované § 6a, § 15a, § 15b a § 16a a na měnící se ustanovení o. s. ř.) a stejný model souběhu. Prioritně hledejte oporu k výkladovým otázkám z otázky 11. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo.
 
 **Místní opora.** [úvod — metodická poznámka](00-uvod.md); [místní zásady a citace](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
@@ -162,7 +162,7 @@ Každý paragraf obsahuje oddíl G. Protiargumenty a rizika. Místní kapitoly v
 - [§ 21 — přípustnost odvolání](02-veci-nemovitosti-podnik-spolecna.md)
 Úplný katalog s preferencí a mírou jistoty je v [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md). Příklad místní formulace: „Zda se tříměsíční doba počítá až od výzvy, nebo zda postačí, že nečinnost trvá déle než 3 měsíce a výzva zůstala bez odezvy, je výkladová otázka.“
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument, praktický následek a důvod, proč jeden převáží; judikatorní argument zatím chybí. Není-li spor místními prameny řešitelný, zachovejte obě varianty, transparentně označte nejistotu a doporučte bezpečnější procesní postup (např. kratší lhůtu u § 16a odst. 5).
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický a účelový argument, praktický následek a důvod, proč jeden převáží; místní judikatorní argument k těmto otázkám chybí. Není-li spor místními prameny řešitelný, zachovejte obě varianty, transparentně označte nejistotu a doporučte bezpečnější procesní postup (např. kratší lhůtu u § 16a odst. 5).
 
 **Místní opora.** [kapitola 1](01-mzda-pohledavky.md); [kapitola 2](02-veci-nemovitosti-podnik-spolecna.md); [místní zásady](ZASADY.md); [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
@@ -179,9 +179,9 @@ Aplikační vrstvu lze ověřit zejména v: [01-mzda-pohledavky](01-mzda-pohleda
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **úvod a 2** normativní kapitoly a **0** karet rozhodnutí, doplněné samostatnou mapou zásad, modalit a hloubkového výkladu. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **úvod a 2** normativní kapitoly a **1** kartu rozhodnutí (k § 1 a § 2, překonanou novelou č. 286/2009 Sb.), doplněné samostatnou mapou zásad, modalit a hloubkového výkladu. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi (složka `judikatura/` se doplní strojově);
+- místní judikatura neposkytuje tezi použitelnou na platné znění (jediná karta [NS 20 Cdo 331/2004](judikatura/NS-20-Cdo-331-2004.md) k § 1 a § 2 má jen historickou hodnotu; k ostatním ustanovením karta není);
 - chybí místní důvodová zpráva a přechodná ustanovení pozdějších novel;
 - data účinnosti novelizovaných § 6a, § 15a, § 15b a § 16a nejsou v lokální konsolidaci uvedena;
 - komentář stojí na jediné konsolidaci k 1. 10. 2024.

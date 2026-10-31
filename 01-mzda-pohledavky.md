@@ -23,6 +23,8 @@ U mzdy i u pohledávek je hlavním nástrojem **pořadí podle dne doručení** 
 - *NS* [20 Cdo 331/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/88406D94E9FB98A6C1257A4E00679551?openDocument) — 21. 7. 2004, kat. A
   > „Předmětem úpravy obsažené v zákoně č. 119/2001 Sb. není postup soudů v případech souběhu výkonu rozhodnutí (podle občanského soudního řádu), nařízeného i prováděného soudem, s exekucí (podle exekučního řádu), nařízenou soudem a prováděnou soudním exekutorem"
 
+**K místní judikaturní kartě NS 20 Cdo 331/2004** ([judikatura/NS-20-Cdo-331-2004.md](judikatura/NS-20-Cdo-331-2004.md)): podle její právní věty předmětem zákona č. 119/2001 Sb. nebyl postup soudů při souběhu soudního výkonu rozhodnutí s exekucí prováděnou soudním exekutorem. Rozhodnutí z 21. 7. 2004 však vychází z původního znění zákona. Novela č. 286/2009 Sb. (čl. IV, ověřeno ve vaultu) přepsala § 2 písm. a) tak, že pojem „exekuce“ zahrnuje i exekuci prováděnou soudním exekutorem, a platné znění § 1 výslovně uvádí soudní exekutory a exekuce „zahájené u soudního exekutora“. Závěr karty proto na platné znění **nelze použít**; má jen historickou výpovědní hodnotu pro souběhy, které nastaly před touto změnou.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Na mzdu zaměstnance P. dopadá exekuční příkaz soudního exekutora a exekuční příkaz finančního úřadu. Zároveň okresní soud nařídil výkon rozhodnutí prodejem jeho automobilu.
@@ -86,6 +88,8 @@ Pro pořadí u mzdy a účtů (§ 3 odst. 2, § 8 odst. 2) však zákon stanoví
 
 - *NS* [20 Cdo 331/2004](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/88406D94E9FB98A6C1257A4E00679551?openDocument) — 21. 7. 2004, kat. A
   > „Předmětem úpravy obsažené v zákoně č. 119/2001 Sb. není postup soudů v případech souběhu výkonu rozhodnutí (podle občanského soudního řádu), nařízeného i prováděného soudem, s exekucí (podle exekučního řádu), nařízenou soudem a prováděnou soudním exekutorem"
+
+**K místní judikaturní kartě NS 20 Cdo 331/2004:** viz poznámku u § 1 — karta se týká znění § 2 písm. a) před novelou č. 286/2009 Sb. a na platné vymezení pojmu „exekuce“ nedopadá.
 
 #### F. Kazuistika
 
